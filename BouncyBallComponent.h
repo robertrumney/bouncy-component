@@ -5,7 +5,7 @@
 #include "BouncyBallComponent.generated.h"
 
 UCLASS(ClassGroup=(Custom), meta=(BlueprintSpawnableComponent))
-class YOURGAME_API UBouncyBallComponent : public UActorComponent
+class BOUNCE_API UBouncyBallComponent : public UActorComponent
 {
     GENERATED_BODY()
 
